@@ -13,6 +13,7 @@ while True:
         print(dictionary[wrequest])
     except KeyError:
         print("word is not in dictionary")
+        print("")
         continue
     while True:
         follow = input("continue y/n ")
