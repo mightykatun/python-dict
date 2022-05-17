@@ -9,6 +9,4 @@ the form of a string in dict.txt.
 
 Then, dict.py loads that and finds the type (definition) based on a key user input (word).
 
-Warning! Early release, current version does not work for multiple-words keys.
-
 Do not distribute.
