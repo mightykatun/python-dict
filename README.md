@@ -9,5 +9,3 @@ the form of a string in dict.txt.
 
 Then, dict.py loads dict.txt and finds the type (definition) based on an user key input (word).
 If the word is not in the dictionary, it will propose similar words to your input.
-
-Do not distribute.
